@@ -22,7 +22,7 @@ client_dict = {
                 , "FTG" : ["Mid", 3, "$", 1, "Weight", "Parametric", "Symbol","westmcg"]
                 , "SWT" : ["Mid", 2, "CASH:SWEEP", 1,  "Target Percent", "SWT", "Symbol", None]
                 , "FTB" : ["Mid", 3, "@CASHUSD", 1, "Weight", "FTB", "Symbol", None]
-                , "Harbor": ["Disruptive", 4, "USD", 1, "ENDING_WEIGHT", "Harbor", "TICKER", None]
+                # , "Harbor": ["Disruptive", 4, "USD", 1, "ENDING_WEIGHT", "Harbor", "TICKER", None]
                }
 
 # client_email provides clients and corresponding data to create the requisite emails for the client. The client key must match the client key in client_dict.
